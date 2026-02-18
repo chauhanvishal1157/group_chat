@@ -1,6 +1,20 @@
 # chats
+Group Chat App built with Flutter 💬
+A real-time group messaging application developed using Flutter and Firebase. Users can create accounts, join chat rooms, and send instant messages with smooth UI and modern design.
 
-A new Flutter project.
+✨ Features:
+
+User Authentication (Email & Password)
+
+Real-time Messaging
+
+Group Chat Support
+
+Clean & Responsive UI
+
+Firebase Backend Integration
+
+🛠 Tech Stack: Flutter, Dart, Firebase Authentication, Cloud Firestore
 
 ## Getting Started
 <img width="1918" height="1141" alt="register_screen" src="https://github.com/user-attachments/assets/7df2b768-fdb1-4082-9685-e769e362de17" />
